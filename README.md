@@ -1,2 +1,2 @@
-# freecodecamp-github-workshop-4
+# freeCodeCamp GitHub Workshop 4
 Example repository for the freeCodeCamp Git and GitHub Crash Course
